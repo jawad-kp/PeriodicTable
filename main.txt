@@ -55,7 +55,7 @@ class main_mnu
     System.out.println("thank you for using the program");
     System.out.println( "           - created by  ");
     System.out.println( "                  Jawad Ahmed Khan"); 
-    System.out.println("                                         X A");
+   
     System.out.println("Itna Paisa Mein Itnaicch Milega");
     }
 }
